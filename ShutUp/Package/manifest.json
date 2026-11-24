@@ -1,0 +1,9 @@
+{
+  "name": "ShutUp",
+  "description": "Mute the Valheim sound effects you choose, and only those. Client-side.",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/orax-Valheim-mods",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
