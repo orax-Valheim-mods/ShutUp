@@ -1,6 +1,6 @@
 {
   "name": "ShutUp",
-  "description": "Mute the Valheim sound effects you choose, and only those.",
+  "description": "Mute/silence the Valheim sound effects you choose, and only those.",
   "version_number": "0.1.0",
   "website_url": "https://github.com/orax-Valheim-mods",
   "dependencies": [
