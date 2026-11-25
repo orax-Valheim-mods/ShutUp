@@ -1,5 +1,3 @@
-# ShutUp
-
 ShutUp is a mod that mutes the sound effects you pick, and only those. Volume settings, music,
 ambient loops and every other sound stay untouched.
 
